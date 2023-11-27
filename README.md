@@ -10,7 +10,7 @@ Escreve as respostas dentro dos blocos correspondentes. Substitui as reticência
 
     Nome: ...
 
-## P1 - Responde às seguintes questões (5v)
+## P1 - Responde às seguintes questões (4v)
 
     1 - As classes são tipos de referência? 
         ...
@@ -30,7 +30,7 @@ Escreve as respostas dentro dos blocos correspondentes. Substitui as reticência
     8 - De onde podes aceder a algo internal? 
         ...
 
-## P2 - Explica por palavras tuas o significado dos seguintes termos (5v)
+## P2 - Explica por palavras tuas o significado dos seguintes termos (4v)
 
     1 - Classe
         ...
@@ -49,7 +49,7 @@ Escreve as respostas dentro dos blocos correspondentes. Substitui as reticência
     8 - Encapsulação
         ...
 
-## P3 - Cria o seguinte programa de consola (10v)
+## P3 - Cria o seguinte programa de consola (12v)
 
 - Nome do projeto: **BolasColoridas**
   - Cria a classe **Cor** com:

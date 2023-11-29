@@ -44,7 +44,7 @@ Escreve as respostas dentro dos blocos correspondentes. Substitui as reticência
     5 - Variável de instância
         É o que define o estado de cada instância da classe.
     6 - Variável local
-        Variável local pode ter o mesmo nome de uma variável de instância, e "oculta" a variável de instância. 
+        Variável local pode ter o mesmo nome de uma variável de instância, e "oculta" a variável de instância. As variáveis locais atuam em metodos.
     7 - Overloading
         Overloading é o que permite múltiplos metodos terem o mesmo nome.
     8 - Encapsulação

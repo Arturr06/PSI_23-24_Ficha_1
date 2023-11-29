@@ -20,6 +20,8 @@ namespace BolasColoridas
 
             Console.WriteLine("A bola A foi atirada. ");
             a.Atirar();
+            Console.WriteLine("A bola C foi atirada. ");
+            c.Atirar();
             Console.WriteLine("A bola B foi atirada. ");
             b.Atirar();
             Console.WriteLine("A bola C foi atirada. ");
@@ -28,15 +30,22 @@ namespace BolasColoridas
             d.Atirar();
             Console.WriteLine("A bola Z foi atirada. ");
             z.Atirar();
+            Console.WriteLine("A bola B foi atirada. ");
+            b.Atirar();
+            Console.WriteLine("");
 
             Console.WriteLine("A bola A foi rebentada. ");
             a.Pop();
+            Console.WriteLine("");
             Console.WriteLine("A bola B foi rebentada. ");
             b.Pop();
-            Console.WriteLine("A bola C foi rebentada. ");
-            c.Pop();
+            Console.WriteLine("");
+            Console.WriteLine("A bola C não foi rebentada. ");
+            Console.WriteLine("");
             Console.WriteLine("A bola D foi rebentada. ");
             d.Pop();
+            Console.WriteLine("");
+            Console.WriteLine("A bola Z não foi rebentada. ");
             Console.WriteLine("");
 
             Console.WriteLine("A bola A tem:");

@@ -8,46 +8,47 @@ Escreve as respostas dentro dos blocos correspondentes. Substitui as reticência
 
 ## Informação do aluno
 
-    Nome: ...
+    Nome: Artur
 
 ## P1 - Responde às seguintes questões (4v)
 
     1 - As classes são tipos de referência? 
-        ...
-    2 - (Classes/Instâncias) definem o que algo pode fazer e guardar, enquanto uma
-        (classe/instância) é um objeto específico que contém o seu próprio estado 
+        Sim, apartir dos objetos.
+    2 - (Classes) definem o que algo pode fazer e guardar, enquanto uma
+        (instância) é um objeto específico que contém o seu próprio estado 
         (Apaga a opção entre parênteses errada)
+
     3 - Indica três tipos de membros que podem pertencer a uma classe 
-        ...
+        Variáveis, Métodos e Construtores 
     4 - Se algo é static então é partilhado por todas as instâncias desse tipo específico? 
-        ...
+        Sim.
     5 - Como se chamam os métodos especiais que inicializam uma classe? 
-        ...
+        São os construtores.
     6 - De onde podes aceder a algo private? 
-        ...
+        Apenas dentro da classe.
     7 - De onde podes aceder a algo public? 
-        ... 
+        A partir de qualquer sitio.
     8 - De onde podes aceder a algo internal? 
-        ...
+        Dentro do mesmo projeto.
 
 ## P2 - Explica por palavras tuas o significado dos seguintes termos (4v)
 
     1 - Classe
-        ...
+        São categorias gerais de objetos.
     2 - Objeto / instância
-        ...
+        São casos específicos de objetos
     3 - Método
-        ...
+        Permitem que código externo manipule instâncias, têm o nome diferente do da classe, e têm de retornar um tipo especifico.
     4 - Construtor
-        ...
+        Inicializam estado de novas instâncias.
     5 - Variável de instância
-        ...
+        É o que define o estado de cada instância da classe.
     6 - Variável local
-        ...
+        Variável local pode ter o mesmo nome de uma variável de instância, e "oculta" a variável de instância. 
     7 - Overloading
-        ...
+        Overloading é o que permite múltiplos metodos terem o mesmo nome.
     8 - Encapsulação
-        ...
+        Verificam se os objetos private não são modificados de forma inesperada.
 
 ## P3 - Cria o seguinte programa de consola (12v)
 
